@@ -1,2 +1,2 @@
-## Git Tutorials
-# Practice
+# Git Tutorials
+## Practice
