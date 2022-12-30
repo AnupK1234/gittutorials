@@ -1,4 +1,4 @@
 Hello World!
-Git Tutorials !!!
+Git Tutorials!
 How are You?
 How are you?
